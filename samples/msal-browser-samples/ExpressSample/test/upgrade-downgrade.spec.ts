@@ -7,7 +7,7 @@ import {
     AzureEnvironments,
     AppTypes,
     BrowserCacheUtils
-} from "e2e-test-utils";
+} from "e2e-test-utils-w";
 import { verifyCacheWasUsed, switchToVersion, signIn } from "./test-helpers";
 
 const SCREENSHOT_BASE_FOLDER_NAME = `${__dirname}/screenshots/upgrade-downgrade-tests`;

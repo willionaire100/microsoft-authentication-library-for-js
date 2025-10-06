@@ -9,7 +9,7 @@ import {
     AzureEnvironments,
     AppTypes,
     BrowserCacheUtils,
-} from "e2e-test-utils";
+} from "e2e-test-utils-w";
 
 const SCREENSHOT_BASE_FOLDER_NAME = `${__dirname}/screenshots/profile-tests`;
 

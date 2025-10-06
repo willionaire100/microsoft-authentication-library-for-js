@@ -20,7 +20,7 @@ import {
     LabApiQueryParams,
     B2cProviders,
     UserTypes,
-} from "e2e-test-utils";
+} from "e2e-test-utils-w";
 import { PublicClientApplication, TokenCache } from "@azure/msal-node";
 import path from "path";
 

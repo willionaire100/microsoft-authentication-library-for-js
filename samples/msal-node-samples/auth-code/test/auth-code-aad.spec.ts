@@ -17,7 +17,7 @@ import {
     LabApiQueryParams,
     AppTypes,
     AzureEnvironments,
-} from "e2e-test-utils";
+} from "e2e-test-utils-w";
 import path from "path";
 
 import { PublicClientApplication } from "@azure/msal-node";

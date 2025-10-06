@@ -16,7 +16,7 @@ import {
     AzureEnvironments,
     AppTypes,
     LabClient,
-} from "e2e-test-utils";
+} from "e2e-test-utils-w";
 import {
     msalConfig as memStorageConfig,
     request as memStorageTokenRequest,

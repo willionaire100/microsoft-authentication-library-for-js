@@ -14,7 +14,7 @@ import {
     AzureEnvironments,
     FederationProviders,
     UserTypes,
-} from "e2e-test-utils";
+} from "e2e-test-utils-w";
 import { PublicClientApplication } from "@azure/msal-node";
 import path from "path";
 

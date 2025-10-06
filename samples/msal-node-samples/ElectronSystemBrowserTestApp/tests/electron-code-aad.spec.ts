@@ -20,7 +20,7 @@ import {
     setupCredentials,
     SCREENSHOT_BASE_FOLDER_NAME,
     validateCacheLocation,
-} from "e2e-test-utils";
+} from "e2e-test-utils-w";
 import * as path from "path";
 
 let electronApp: ElectronApplication;

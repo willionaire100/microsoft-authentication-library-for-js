@@ -19,7 +19,7 @@ import {
     UserTypes,
     B2cProviders,
     LabClient,
-} from "e2e-test-utils";
+} from "e2e-test-utils-w";
 import {
     msalConfig as b2cMsalConfig,
     request as b2cTokenRequest,
