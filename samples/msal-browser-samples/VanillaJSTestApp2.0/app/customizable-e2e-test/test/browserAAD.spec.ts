@@ -18,7 +18,7 @@ import {
     AzureEnvironments,
     AppTypes,
     LabClient,
-} from "e2e-test-utils-w";
+} from "e2e-test-utils";
 import {
     msalConfig as aadMsalConfig,
     request as aadTokenRequest,

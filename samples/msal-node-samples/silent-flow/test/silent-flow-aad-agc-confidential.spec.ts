@@ -19,7 +19,7 @@ import {
     NodeCacheTestUtils,
     getKeyVaultSecretClient,
     getCredentials,
-} from "e2e-test-utils-w";
+} from "e2e-test-utils";
 import { ConfidentialClientApplication, TokenCache } from "@azure/msal-node";
 import path from "path";
 

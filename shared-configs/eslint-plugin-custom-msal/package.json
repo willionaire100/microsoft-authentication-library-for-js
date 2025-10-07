@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-custom-msal",
+  "name": "eslint-plugin-custom-msal-w",
   "version": "1.0.0",
   "private": true,
   "main": "index.js",

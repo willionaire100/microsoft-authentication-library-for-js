@@ -16,7 +16,7 @@ import {
     LabApiQueryParams,
     AppTypes,
     AzureEnvironments,
-} from "e2e-test-utils-w";
+} from "e2e-test-utils";
 import { ConfidentialClientApplication, LogLevel } from "@azure/msal-node";
 import path from "path";
 import * as dotenv from "dotenv";

@@ -5,7 +5,7 @@ import {
     LabApiQueryParams,
     NodeCacheTestUtils,
     LabClient,
-} from "e2e-test-utils-w";
+} from "e2e-test-utils";
 import { ConfidentialClientApplication } from "@azure/msal-node";
 import config from "../config/AAD.json";
 

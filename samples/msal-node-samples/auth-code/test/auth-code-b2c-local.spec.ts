@@ -17,7 +17,7 @@ import {
     LabApiQueryParams,
     B2cProviders,
     UserTypes,
-} from "e2e-test-utils-w";
+} from "e2e-test-utils";
 import path from "path";
 
 import { PublicClientApplication } from "@azure/msal-node";

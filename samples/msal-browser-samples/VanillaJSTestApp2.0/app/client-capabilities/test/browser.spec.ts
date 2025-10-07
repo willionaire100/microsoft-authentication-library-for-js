@@ -14,7 +14,7 @@ import {
     AzureEnvironments,
     AppTypes,
     LabClient,
-} from "e2e-test-utils-w";
+} from "e2e-test-utils";
 import { JWT } from "jose";
 import path from "path";
 

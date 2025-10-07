@@ -18,7 +18,7 @@ import {
     AppTypes,
     LabClient,
     UserTypes,
-} from "e2e-test-utils-w";
+} from "e2e-test-utils";
 import {
     msalConfig as aadMsalConfig,
     request as aadTokenRequest,
@@ -26,7 +26,7 @@ import {
 } from "../authConfigs/aadMultiTenantAuthConfig.json";
 import fs from "fs";
 import path from "path";
-import { GuestHomedIn } from "e2e-test-utils-w/src/Constants";
+import { GuestHomedIn } from "e2e-test-utils/src/Constants";
 
 const SCREENSHOT_BASE_FOLDER_NAME = path.join(__dirname, "../../../test/screenshots/customizable-e2e-test/browserAADMultiTenant");
 let sampleHomeUrl = "";

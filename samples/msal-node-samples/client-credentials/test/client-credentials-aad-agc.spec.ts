@@ -8,7 +8,7 @@ import {
     RETRY_TIMES,
     validateCacheLocation,
     NodeCacheTestUtils,
-} from "e2e-test-utils-w";
+} from "e2e-test-utils";
 
 const TEST_CACHE_LOCATION = `${__dirname}/data/aad-agc.cache.json`;
 

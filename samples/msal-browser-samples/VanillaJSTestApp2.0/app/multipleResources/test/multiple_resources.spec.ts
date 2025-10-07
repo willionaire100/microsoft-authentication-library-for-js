@@ -13,7 +13,7 @@ import {
     AzureEnvironments,
     AppTypes,
     LabClient,
-} from "e2e-test-utils-w";
+} from "e2e-test-utils";
 import path from "path";
 
 const SCREENSHOT_BASE_FOLDER_NAME = path.join(__dirname, "../../../test/screenshots/multiple_resources");

@@ -2,7 +2,7 @@ import * as puppeteer from "puppeteer";
 import {
     Screenshot,
     enterCredentials,
-} from "e2e-test-utils-w";
+} from "e2e-test-utils";
 
 /**
  * Checks that tokens can be retrieved from the cache
